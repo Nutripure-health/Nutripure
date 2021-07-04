@@ -97,7 +97,7 @@ body{font-family: 'Mate SC', serif;
 
 
 .black-text{
-    color: black;
+    color: white;
 }
 
 .nav-link{
@@ -218,7 +218,26 @@ position: relative;
 
 }
 
+/*Contact us*/
 
+.contect{
+    text-align: center;
+    font-size: 19px;
+    
+}
+.contect1{
+    text-align: center;
+
+}
+
+.img{
+    background-image: url(/image/extra/s.jpg);
+    
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center center;
+    color: white;
+}
 
 
 
